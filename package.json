@@ -1,15 +1,15 @@
 {
-  "name": "vue-webpack",
+  "name": "reactjs-webpack-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple ReactJS webpack starter application.",
   "main": "main.js",
+  "author": "Jhan Mateo",
   "scripts": {
     "dev": "webpack-dev-server --config config/webpack.dev.js --hot --open",
     "build:dev": "webpack --config config/webpack.dev.js",
     "build:prod": "webpack --config config/webpack.prod.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["reactjs", "webpack", "reactjs webpack"],
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
