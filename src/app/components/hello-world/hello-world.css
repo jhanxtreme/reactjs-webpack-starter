@@ -1,0 +1,10 @@
+.hello-world {
+    border:1px #ddd solid;
+    text-align: center;
+    background-color: #fff;
+    max-width: 800px;
+    margin: auto;
+}
+.hello-world h1 {
+    font-weight: normal;
+}
