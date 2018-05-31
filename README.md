@@ -1,5 +1,5 @@
 # reactjs-webpack-starter
-A simple webpack starter on the fly.<br/>
+A simple reactjs webpack starter application on the fly.<br/>
 
 ## Steps<br />
 1.) To install dependencies, execute **npm install** <br />
