@@ -1,4 +1,4 @@
-# react-webpack-starter
+# reactjs-webpack-starter
 A simple webpack starter on the fly.<br/>
 
 ## Steps<br />
