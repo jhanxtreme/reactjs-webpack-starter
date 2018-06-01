@@ -6,6 +6,4 @@ A simple reactjs webpack starter application on the fly.<br/>
 
 2.)To run application in local machine, execute **npm run dev** <br />
 
-3.)To build in development mode, execute **npm run build:dev** <br/>
-
-4.)To build in production mode, execute **npm run build:prod** <br/>
+4.)To build in production mode, execute **npm run build** <br/>
